@@ -1,4 +1,5 @@
 # ReactProjects
-Demo React Projects 
+
+Demo React Projects
 <br>
-Author : Shivendra Revale
+Author : Shivendra Revale for React Projects
